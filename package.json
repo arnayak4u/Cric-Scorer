@@ -1,0 +1,27 @@
+{
+  "name": "cric-scorer",
+  "version": "1.0.0",
+  "description": "Cricket Score Recording and publishing Web App",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnayak4u/Cric-Scorer.git"
+  },
+  "keywords": [
+    "Cricket",
+    "Score",
+    "Recording"
+  ],
+  "author": "Rajaram Nayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnayak4u/Cric-Scorer/issues"
+  },
+  "homepage": "https://github.com/arnayak4u/Cric-Scorer#readme",
+  "dependencies": {
+    "react": "^15.6.1"
+  }
+}
